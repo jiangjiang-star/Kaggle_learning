@@ -16,7 +16,7 @@ test_data = pd.read_csv("/kaggle/input/competitions/titanic/test.csv")
 - 测试集：418 人，11 列（无 `Survived`，需要预测）
     
 ```
-### 2.2 特征分析
+### 2.2 特征分析问题
 
 ```python
 
